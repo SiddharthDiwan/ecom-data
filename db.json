@@ -1,0 +1,160 @@
+{
+    "products": [
+      {
+        "id": 101,
+        "prodname": "samsung TV",
+        "prodprice": 30000,
+        "prodimg": "./../../assets/samsung.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 102,
+        "prodname": "LG TV",
+        "prodprice": 32000,
+        "prodimg": "./../../assets/LG.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 103,
+        "prodname": "Onida TV",
+        "prodprice": 25000,
+        "prodimg": "./../../assets/onida.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 104,
+        "prodname": "Oneplus TV",
+        "prodprice": 35000,
+        "prodimg": "./../../assets/oneplus.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 105,
+        "prodname": "Chinese TV",
+        "prodprice": 3000,
+        "prodimg": "./../../assets/chinese.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 106,
+        "prodname": "Onida TV",
+        "prodprice": 22000,
+        "prodimg": "./../../assets/onida.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 107,
+        "prodname": "Oneplus TV",
+        "prodprice": 15000,
+        "prodimg": "./../../assets/oneplus.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 108,
+        "prodname": "Chinese TV",
+        "prodprice": 8000,
+        "prodimg": "./../../assets/chinese.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 109,
+        "prodname": "Onida TV",
+        "prodprice": 24000,
+        "prodimg": "./../../assets/onida.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 110,
+        "prodname": "Oneplus TV",
+        "prodprice": 35000,
+        "prodimg": "./../../assets/oneplus.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 111,
+        "prodname": "Chinese TV",
+        "prodprice": 3000,
+        "prodimg": "./../../assets/chinese.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 112,
+        "prodname": "Onida TV",
+        "prodprice": 22000,
+        "prodimg": "./../../assets/onida.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 113,
+        "prodname": "Oneplus TV",
+        "prodprice": 15000,
+        "prodimg": "./../../assets/oneplus.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 114,
+        "prodname": "Chinese TV",
+        "prodprice": 8000,
+        "prodimg": "./../../assets/chinese.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 115,
+        "prodname": "Onida TV",
+        "prodprice": 24000,
+        "prodimg": "./../../assets/onida.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 116,
+        "prodname": "Samsung A72",
+        "prodprice": 42000,
+        "prodimg": "./../../assets/error.jpg",
+        "category": "Mobile"
+      },
+      {
+        "id": 117,
+        "prodname": "asas",
+        "prodprice": 122,
+        "prodimg": "./../../assets/error.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 218,
+        "prodname": "Iphone 8",
+        "prodprice": 28000,
+        "prodimg": "./../../assets/error.jpg",
+        "category": "Mobile"
+      }
+    ],
+    "cart": [
+      {
+        "id": 102,
+        "prodname": "LG TV",
+        "prodprice": 20000,
+        "prodimg": "./../../assets/LG.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 104,
+        "prodname": "Oneplus TV",
+        "prodprice": 35000,
+        "prodimg": "./../../assets/oneplus.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 103,
+        "prodname": "Onida TV",
+        "prodprice": 25000,
+        "prodimg": "./../../assets/onida.jpg",
+        "category": "TV"
+      },
+      {
+        "id": 107,
+        "prodname": "Oneplus TV",
+        "prodprice": 15000,
+        "prodimg": "./../../assets/oneplus.jpg",
+        "category": "TV"
+      }
+    ]
+  }
